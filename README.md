@@ -5,7 +5,7 @@
 **Building scalable web applications, robust backends, and automated cloud workflows.**
 
 <p align="center">
-  <a href="https://linkedin.com/in/venkateshwarlu-musku">
+  <a href="https://www.linkedin.com/in/venkateshwarlu-musku-179a9a247/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:venkateshmusku6@gmail.com">
