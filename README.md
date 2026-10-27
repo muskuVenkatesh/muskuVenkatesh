@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👨‍💻 Venkateshwarlu Musku
-### Full Stack Developer & Cloud / DevOps Enthusiast
+# Hi, I'm Venkateshwarlu Musku 👋
+### Full Stack Developer | Cloud & DevOps Engineer
 **Building scalable web applications, robust backends, and automated cloud workflows.**
 
 <p align="center">
