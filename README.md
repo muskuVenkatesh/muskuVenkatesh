@@ -143,17 +143,14 @@ Complementing my application engineering, I actively practice **DevOps & Cloud E
 I am open to engineering discussions, open-source collaborations, and exciting opportunities in **Full Stack Development** and **Cloud/DevOps Engineering**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/venkateshwarlu-musku">
+  <a href="https://www.linkedin.com/in/venkateshwarlu-musku-179a9a247/">
     <img src="https://img.shields.io/badge/LinkedIn-Venkateshwarlu_Musku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/muskuVenkatesh">
     <img src="https://img.shields.io/badge/GitHub-muskuVenkatesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:venkateshmusku6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-venkateshmusku6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
-  </a>
+  
 </p>
 
 <p align="center">
